@@ -4,4 +4,4 @@ Repositório teste para aprendizado de git
 
 Saiba mais em [willianjusten.com.br](https://willianjusten.com.br)
 
-Alguém me ajuda, muita coisa
+Meio perdido, porém sigo ai tentando
